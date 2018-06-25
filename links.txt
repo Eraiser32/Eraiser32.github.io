@@ -1,0 +1,8 @@
+<HTML> 
+<HEAD> 
+<TITLE>Ассортимент</TITLE> 
+</HEAD> 
+<BODY background="123.jpg"> 
+<A HREF="1.1.htm"> Cсылка </A>
+</BODY> 
+</HTML> 
